@@ -1,2 +1,2 @@
-# learn_rust
+# learn rust language
 self learning rust language
